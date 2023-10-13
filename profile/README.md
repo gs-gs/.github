@@ -1,6 +1,4 @@
-# GoSource Org
-
-Welcome to the GoSource Github Organisation.
+# GoSource
 
 When creating repositories, ensure to follow this pattern:
 
